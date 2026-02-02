@@ -1,0 +1,8 @@
+# macOS system files
+.DS_Store
+
+# MATLAB/Simulink temporary files
+*.asv
+*.slxc
+*.mex*
+slprj/
